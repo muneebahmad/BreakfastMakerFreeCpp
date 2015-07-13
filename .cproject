@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="0.2088439479">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="0.2088439479" moduleId="org.eclipse.cdt.core.settings" name="Default">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.VCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildProperties="" description="" id="0.2088439479" name="Default" parent="org.eclipse.cdt.build.core.prefbase.cfg">
+					<folderInfo id="0.2088439479." name="/" resourcePath="">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.1081712211" name="No ToolChain" resourceTypeBasedDiscovery="false" superClass="org.eclipse.cdt.build.core.prefbase.toolchain">
+							<targetPlatform id="org.eclipse.cdt.build.core.prefbase.toolchain.1081712211.1381055650" name=""/>
+							<builder autoBuildTarget="all" cleanBuildTarget="clean" command="" enableAutoBuild="false" enableCleanBuild="true" enabledIncrementalBuild="true" id="org.eclipse.cdt.build.core.settings.default.builder.1623720013" incrementalBuildTarget="all" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" parallelBuildOn="false" superClass="org.eclipse.cdt.build.core.settings.default.builder"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.539767188" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.169754755" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1050716324" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.142457109" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.652715324" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/actions"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/afcanim"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/astar"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/bitmapfont"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/box2d"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/chipmunk"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/common"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/dialog"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/easeactions"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/events"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/filters"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/grid"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/gridactions"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/iap"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/json"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/lua"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/nodes"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/opengl"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/particle"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/persistence"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/skeletalanim"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/tmx"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/transitions"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/types"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/utils"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/winetwork"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/Documents/WiEngine-master/jni/WiEngine/include/wisound"/>
+									<listOptionValue builtIn="false" value="/Users/muneebahmad/android-ndk/android-ndk-r9/platforms/android-18/arch-arm/usr/include"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1636341524" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.575968268" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.838681754" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="BreakfastMakerFree.null.471898658" name="BreakfastMakerFree"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="0.2088439479">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Default">
+			<resource resourceType="PROJECT" workspacePath="/BreakfastMakerFree"/>
+		</configuration>
+	</storageModule>
+</cproject>
